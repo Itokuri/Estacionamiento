@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(90deg, #355c7d 0%, #6c5b7b 50%, #c06c84 100%);
+}
+
+.opciones{
+    margin-top: 30vh;
+    float: left;
+    width: 25vh;
+    height: 40vh;
+    background-color: black;
+    border-radius: 2vh;
+    border-style: dashed;
+    opacity: 40%;
+}
